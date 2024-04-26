@@ -1,0 +1,31 @@
+{
+  "name": "googlesync.js",
+  "version": "1.0.0",
+  "description": "Effortless data synchronization with Google services",
+  "main": "GoogleSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/googlesync.js.git"
+  },
+  "keywords": [
+    "google",
+    "synchronization",
+    "nodejs",
+    "google drive",
+    "google sheets",
+    "google calendar"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/googlesync.js/issues"
+  },
+  "homepage": "https://github.com/yourusername/googlesync.js#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "googleapis": "^100.0.0"
+  }
+}
